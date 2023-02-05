@@ -1,5 +1,5 @@
 # Software Engineering Methods
-https://img.shields.io/github/actions/workflow/status/Jesh-The-Titan/sem/main.yml?branch=develop
+![develop](https://img.shields.io/github/actions/workflow/status/Jesh-The-Titan/sem/main.yml?branch=develop)
 
 
 ![workflow](https://github.com/Jesh-The-Titan/sem/actions/workflows/main.yml/badge.svg)
